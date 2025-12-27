@@ -131,9 +131,17 @@ https://migu.188766.xyz/?migutoken=b866c9332134700c1c55178e2eac5c2b&id=CCTV15&ty
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="379031" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDdf/CCTV16.png" group-title="央视",CCTV16 奥运
 #EXTINF:-1 tvg-name="TVB星河(粵)" tvg-id="3493" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="香港",TVB星河
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",[AA]翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+http://bxtv.3a.ink/api.php?id=fct
+https://cdn6.163189.xyz/163189/fct4k
+https://mytv.cdn.loc.cc/o12.php?id=fct
+http://mytv.cdn.loc.cc/o12.php?id=fct
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 
 
@@ -144,22 +152,28 @@ http://php.jdshipin.com:8880/smt.php?id=inews_twn
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 http://php.jdshipin.com/smt.php?id=inews_twn
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+http://bxtv.3a.ink/api.php?id=wxxw
+http://r.jdshipin.com/CkuBd
 
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",[AA]tvb plus
-
+http://bxtv.3a.ink/api.php?id=tvbp
+http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="香港",[AA]viutv
-
+http://bxtv.3a.ink/api.php?id=viutv
 
 #EXTINF:-1 tvg-name="myTV SUPER" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDZf/Mytv_super.png" group-title="香港",[AA]myTV SUPER
 
 
 #EXTINF:-1 tvg-name="NOW 新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",[AA]now新闻
-
+http://bxtv.3a.ink/api.php?id=now
+https://cdn.163189.xyz/163189/now
 
 
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港",[AA]Hoy tv
-
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 #EXTINF:-1 tvg-name="TVB星河(粵)" tvg-id="3493" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="香港",[AA]TVB星河
 
@@ -172,7 +186,9 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 
 
 #EXTINF:-1 tvg-name="廣東珠江" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png" group-title="广东",[AA]广东珠江
-
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+http://r.jdshipin.com/sE5vO
+http://bxtv.3a.ink/api.php?id=gdzj
 
 
 
@@ -188,7 +204,9 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 
 
 #EXTINF:-1 tvg-name="廣東體育" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="广东",[AA]广东体育
-
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+http://bxtv.3a.ink/api.php?id=gdty
+http://r.jdshipin.com/LiYdg
 
 
 
@@ -209,7 +227,7 @@ http://php.jdshipin.com/smt.php?id=inews_twn
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="378819" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001359645907_15.png" group-title="央视",[AA]CCTV1 综合
-
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 
 
