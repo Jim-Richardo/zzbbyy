@@ -1,27 +1,23 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台
-https://t.freetv.fun/live/fei-cui-6.php
 https://t.freetv.fun/live/fei-cui-8.php
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港",无线新闻台
-https://t.freetv.fun/live/wu-xian-xin-wen-1.flv
-https://t.freetv.fun/live/wu-xian-xin-wen-2.php
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-id="" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="香港",ViuTV
-https://t.freetv.fun/live/viutv-8.php
-https://t.freetv.fun/live/viutv6.php
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",TVB Plus
-https://t.freetv.fun/live/tvb-plus-6.php
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港",HOY TV
+#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211913907119_40.png" group-title="香港",HOY TV
 #EXTINF:-1 tvg-name="廣東民生" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDRf/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="广东",广东民生
 https://t.freetv.fun/live/yan-dong-min-sheng-2.php
 #EXTINF:-1 tvg-name="廣東珠江" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png" group-title="广东",广东珠江
 #EXTINF:-1 tvg-name="廣東珠江HD" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2024/02/04/large/20240204144739284792_38.png" group-title="广东",广东珠江
 https://t.freetv.fun/live/yan-dong-zhu-jiang-7.php
 #EXTINF:-1 tvg-name="大灣區衛視" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="广东",大湾区卫视
+#EXTINF:-1 tvg-name="大灣區衛視海外版" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130748426981_28.png" group-title="广东",大湾区卫视
 #EXTINF:-1 tvg-name="廣東新聞" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131740840005_79.png" group-title="广东",广东新闻
 https://t.freetv.fun/live/yan-dong-xin-wen-7.php
 #EXTINF:-1 tvg-name="廣東新聞" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2023/12/26/large/20231226205535927295_17.png" group-title="广东",广东新闻
 #EXTINF:-1 tvg-name="廣東衛視" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDVf/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="广东", 广东卫视
-https://t.freetv.fun/live/yan-dong-wei-shi-6.php
+https://t.freetv.fun/live/yan-dong-wei-shi-4.php
 https://t.freetv.fun/live/yan-dong-wei-shi-5.php
 #EXTINF:-1 tvg-name="廣東綜藝4K" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719064646595865_81.jpg" group-title="广东",广东综艺
 #EXTINF:-1 tvg-name="廣東體育" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="广东",广东体育
@@ -31,29 +27,26 @@ https://t.freetv.fun/live/yan-dong-ti-yu-11.php
 https://t.freetv.fun/live/cctv1-1.php
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="央视",CCTV3 综艺
 https://t.freetv.fun/live/cctv3.php
+https://t.freetv.fun/live/cctv3-zong-yi.php
 https://t.freetv.fun/live/cctv3-4.php
-https://t.freetv.fun/live/cctv3-5.php
 https://t.freetv.fun/live/cctv-03.php
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="央视",CCTV5 体育
 https://t.freetv.fun/live/cctv5-4.php
+#EXTINF:-1 tvg-name="CCTV5(backup)" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001815951580_60.jpg" group-title="央视",CCTV5 体育
+https://t.freetv.fun/live/cctv5-ti-yu.php
 #EXTINF:-1 tvg-name="CCTV5(h265)" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001808321738_22.jpg" group-title="央视",CCTV5 体育
 https://t.freetv.fun/live/cctv5-2.php
-https://t.freetv.fun/live/cctv5-5.php
 https://t.freetv.fun/live/cctv-05.php
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001757126121_81.png" group-title="央视",CCTV5+ 体育赛事
 #EXTINF:-1 tvg-name="CCTV5+(backup)" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001746078420_25.png" group-title="央视",CCTV5+ 体育赛事
-https://t.freetv.fun/live/cctv5-plus-4.php
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001548035027_74.png" group-title="央视",CCTV13 新闻
 https://t.freetv.fun/live/cctv13-1.php
-https://t.freetv.fun/live/cctv13-2.php
 https://t.freetv.fun/live/cctv-13.php
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="" tvg-country="中國大陸" tvg-language="中國大陸" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001529466715_75.png" group-title="央视",CCTV15 音乐
 https://t.freetv.fun/live/cctv15-2.php
-https://t.freetv.fun/live/cctv15-3.php
+https://t.freetv.fun/live/cctv-15-1.php
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="379031" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDdf/CCTV16.png" group-title="央视",CCTV16 奥运
 https://t.freetv.fun/live/cctv-16.php
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="378819" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001359645907_15.png" group-title="央视",CCTV1 综合
-http://101.74.28.61:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",[AA]翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
