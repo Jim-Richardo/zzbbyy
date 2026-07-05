@@ -1,100 +1,64 @@
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",[AA]翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-https://cdn6.163189.xyz/163189/fct
-https://mytv.cdn.loc.cc/o12.php?id=fct
-http://mytv.cdn.loc.cc/o12.php?id=fct
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-http://r.jdshipin.com/qrfbg
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-https://o11.163189.xyz/stream/tvb/fct4k/
 https://o11.163189.xyz/stream/tvb/fct/
-http://php.jdshipin.com/smt.php?id=jade_twn
-http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-http://hls.168.us.kg/u/81/master.m3u8
 http://r.jdshipin.com/n90gt
-http://bxtv.3a.ink/api.php?id=fct
+http://45.32.81.163:20006/stream/tvb/fct4k/?163189&token=juli
+http://45.32.81.163:20003/163189/fct?163189&token=juli
+http://c.123.rr.kg/163189/fct
+https://cdn.qd.je/163189.php?id=fct
+
+
+
 
 
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港",[AA]无线新闻台
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-http://php.jdshipin.com/smt.php?id=inews_twn
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-http://r.jdshipin.com/CkuBd
-http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-http://hls.168.us.kg/u/83/master.m3u8
-http://bxtv.3a.ink/api.php?id=wxxw
-
+http://45.32.81.163:20003/163189/wxxw?163189&token=juli
+http://c.123.rr.kg/163189/wxxw
+http://c.123.rr.kg/163189/wxxwt
+https://cdn.yang-1989.xyz/hk/5fkbjj?token=699ef70d6614bd6a61b5a4aa7a60034c9db18d1ce1a1206d
+https://cdn.qd.je/163189.php?id=wxxw
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",[AA]tvb plus
-http://r.jdshipin.com/ndGgS
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-https://o11.163189.xyz/stream/tvb/tvbp/
-http://hls.168.us.kg/u/82/master.m3u8
-http://bxtv.3a.ink/api.php?id=tvbp
 
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="香港",[AA]viutv
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-https://cdn.163189.xyz/163189/viu
-https://cdn9.163189.xyz/smt1.1.php?id=viu1_twn
-http://bxtv.3a.ink/api.php?id=viutv
-
+https://cdn.qd.je/163189.php?id=viu
+https://cdn.qd.je/163189.php?id=viu6
 
 #EXTINF:-1 tvg-name="myTV SUPER" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDZf/Mytv_super.png" group-title="香港",[AA]myTV SUPER
 
 
 #EXTINF:-1 tvg-name="NOW 新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",[AA]now新闻
-https://cdn.163189.xyz/163189/now
-http://bxtv.3a.ink/api.php?id=now
+https://cdn.qd.je/163189.php?id=now
 
 
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港",[AA]Hoy tv
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
+https://cdn.qd.je/163189.php?id=hoy
+https://cdn.qd.je/163189.php?id=hoy2
 
 #EXTINF:-1 tvg-name="TVB星河(粵)" tvg-id="3493" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="香港",[AA]TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-https://o11.163189.xyz/stream/live/tvbxh/
+https://cdn.qd.je/163189.php?id=xinghe
 
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="香港",[AA]翡翠剧集台
+https://cdn.qd.je/163189.php?id=tvbd
 
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",[AA]华丽翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
-https://o11.163189.xyz/stream/live/hlt/
-http://cdn6.163189.xyz/163189/jade
+
 
 #EXTINF:-1 tvg-name="TVB亚洲剧" tvg-id="368335" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208223626594389_27.png" group-title="香港",[AA]TVB亚洲剧
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+https://cdn.qd.je/163189.php?id=yzwx
 
 #EXTINF:-1 tvg-name="千禧经典台" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="香港",[AA]千禧经典台
-https://o11.163189.xyz/stream/live/tvbc/
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+
 
 #EXTINF:-1 tvg-name="美亚电影台" tvg-id="460873" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="香港",[AA]美亚电影台
-https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+
 
 #EXTINF:-1 tvg-name="天映頻道" tvg-id="" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805003741056376_18.png" group-title="香港",[AA]天映頻道
-https://o11.163189.xyz/stream/live/typd/
+
 
 #EXTINF:-1 tvg-name="廣東珠江" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128060916282738_90.png" group-title="广东",[AA]广东珠江
-http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-http://r.jdshipin.com/sE5vO
-http://bxtv.3a.ink/api.php?id=gdzj
+https://cdn.qd.je/163189.php?id=gdzj
 
 
 #EXTINF:-1 tvg-name="廣東民生" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDRf/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="广东",[AA]广东民生
@@ -104,10 +68,7 @@ http://bxtv.3a.ink/api.php?id=gdzj
 
 
 #EXTINF:-1 tvg-name="廣東體育" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="广东",[AA]广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-http://r.jdshipin.com/LiYdg
-http://php.jdshipin.com/PLTV/iptv.php?id=gdty
-http://bxtv.3a.ink/api.php?id=gdty
+https://cdn.qd.je/163189.php?id=gdty
 
 
 #EXTINF:-1 tvg-name="廣東新聞" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131740840005_79.png" group-title="广东",[AA]广东新闻
@@ -120,23 +81,27 @@ http://bxtv.3a.ink/api.php?id=gdty
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="378819" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001359645907_15.png" group-title="央视",[AA]CCTV1 综合
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+
 
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="378821" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="央视",[AA]CCTV3 综艺
 
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="378823" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="央视",[AA]CCTV5 体育
-
+https://cdn.qd.je/163189.php?id=cctv5
+https://cdn.qd.je/163189.php?id=cctv5-2
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="378824" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001757126121_81.png" group-title="央视",[AA]CCTV5+ 体育赛事
-
+https://cdn.qd.je/163189.php?id=cctv5p
+https://cdn.qd.je/163189.php?id=cctv5p-2
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="378832" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001548035027_74.png" group-title="央视",[AA]CCTV13 新闻
-
+https://cdn.qd.je/163189.php?id=cctv13
+https://cdn.qd.je/163189.php?id=cctv13-2
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="378834" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001529466715_75.png" group-title="央视",[AA]CCTV15 音乐
 
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="379031" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDdf/CCTV16.png" group-title="央视",[AA]CCTV16 奥运
-
+https://cdn.qd.je/163189.php?id=cctv16
+https://cdn.qd.je/163189.php?id=cctv16-2
