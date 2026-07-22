@@ -42,7 +42,15 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 https://cdn.qd.je/163189.php?id=fct4k
 https://cdn.qd.je/163189/fct4k
 
-http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+https://cdn6.cc.cd/163189/fct
+http://www.kaniptv.cn/uadl.php?etoken=TyzWwmQsya3KU5N%2FAcWgGDofyS1xcXmy014%2BMNiaelYimwL1%2BVxtsPGui6Zji1jQqM3Ljy%2Biy6InIjlVSK5BFaX92PnFsH38qiuYu1XFKoyrYoo1vKvuRIVa4H5blx7evfeIExDClkIyz%2BHX5Ix9q1NLiBPY19GbxdUFvv4C738YsvmMFxcjC3ZW7M%2B51RkWHnOcnBYidgkK2Hxrw6lIWBhmt1QILPSfvC6ZqtLXCuNx7RDPnYECzpyxjDNU3t50YtOKd8QltCo5kAgeH87TL4aMXZOFlFtJKjq8RYJZyzs7ODWRGcBuiPwzXUTIXTRH%2BjYCM%2FtX7e8SaNpWfKFsQA%3D%3D
+https://cdn3.indevs.in/stream/tvb/fct4k/
+https://cdn3.indevs.in/stream/tvb/fct/
+http://rihou.cc:555/tv/[Pd]无线翡翠
+http://rihou.cc:555/tv/[Pd]无线翡4K
+
+
+
 
 
 
@@ -53,19 +61,22 @@ https://cdn.qd.je/163189.php?id=wxxw
 https://cdn.qd.je/163189/wxxwt
 https://cdn.qd.je/163189/wxxw
 
+https://cdn6.cc.cd/163189/wxxwt
+http://www.kaniptv.cn/uadl.php?etoken=09mifIFf028KDTPOvrTq3OHYyN273rL%2BBsFsh1zSGlvtc2Ew9rqiRBm0QEq%2FHkjpLNWV7gAhlQQSHfCQtvEzEcap3BaqgcD62RcP3tGNHPcV%2FB8SXGRmdMBmgCAPYDcaNcxL12BP4Lqq%2BUXEmXF7embT5HZNlAMTFWaC4FxEWQbTNue22GaFdIkjQG1L7V6MUPxTjJR3HVm0b0FJfxtrdSSIbOV72d0cmdUyRURBkAXTpheMxOtK6g6iTwASE9ZqNfSW39LfIapHjTf02Pu3pu5fqUB7Z61zbzlrL3hh0JBYYjg%2FKRAfu2STkwPjqY44Sf2us77%2F%2BxHdVgr2Li01Nw%3D%3D
+http://rihou.cc:555/tv/[Pd]无线新闻
+
+
 #EXTINF:-1 tvg-name="TVB Plus" tvg-id="368361" tvg-country="香港" tvg-language="粵語" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",[AA]tvb plus
 https://cdn.qd.je/163189/tvbpvtt
 https://cdn.qd.je/163189/tvbp
 https://cdn.qd.je/163189/tvbp2
 
-https://cdn.1989.click/hkK/d95j56?token=9d44729a25724eb0c919f9e9dadaa2e4f6f4002cbf839186
+http://www.kaniptv.cn/uadl.php?etoken=lpoujPoIEpiXb6mSeBTFIYsrYCy6qafmwrzMb%2BcZrYhowGx6ZFHv5TcHBGseefZ%2BIV1H8lOEWSH%2FfFYby3HBbxPszwCBFTpbl7DrABoVLUMvS9LfxGiJTsd2p5xe9ARZW3DNCeqODH25gt2oQPTMZPqeLiZvQUv08AOld2fcYgfZY9YZ4iLnN%2BOmJGnc5SZ%2FRCv8rHB2n01bN93wKOirx4lVKqa3gCxnUT3EMQX1QdnqH9JrsfAF2S%2FUFkjPvXje9x4W5YdBL9%2B0Kum8Rud5hbjX1i2p%2FPDuKDFJ7cfj0NLrdmDg7NizHzCtDXaFwKTy5qy6nbTZANTB0akP6h3YxQ%3D%3D
+https://cdn3.indevs.in/stream/tvb/tvbp/
 
 #EXTINF:-1 tvg-name="ViuTV HD" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png" group-title="香港",[AA]viutv
 https://cdn.qd.je/163189.php?id=viu
 https://cdn.qd.je/163189.php?id=viu6
-
-https://iptv.1989.click/hk/gy4ds7?token=1479f969b68e6152598cc62087fb2fcc4d134099c7626e7a
-https://iptv.1989.click/hk/fkkk7h?token=1479f969b68e6152598cc62087fb2fcc4d134099c7626e7a
 
 #EXTINF:-1 tvg-name="myTV SUPER" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDZf/Mytv_super.png" group-title="香港",[AA]myTV SUPER
 
@@ -73,8 +84,6 @@ https://iptv.1989.click/hk/fkkk7h?token=1479f969b68e6152598cc62087fb2fcc4d134099
 #EXTINF:-1 tvg-name="NOW 新聞臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",[AA]now新闻
 https://cdn.qd.je/163189.php?id=now
 https://cdn.qd.je/163189/now
-
-https://iptv.1989.click/hk/ba6h7w?token=1479f969b68e6152598cc62087fb2fcc4d134099c7626e7a
 
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港",[AA]Hoy tv
 https://cdn.qd.je/163189.php?id=hoy
@@ -122,6 +131,8 @@ https://cdn.qd.je/163189/gdzj
 #EXTINF:-1 tvg-name="廣東體育" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="广东",[AA]广东体育
 https://cdn.qd.je/163189.php?id=gdty
 https://cdn.qd.je/163189/gdty
+
+http://www.kaniptv.cn/uadl.php?etoken=8aQksUa1ohvUAMgHAp3jp9muMpBaro5uLtq30aK8uFNH6pHK5lkH7WS9Gp8fKeOAZUJ0zOrNGeemkxIeCKKXb5TfhNV8zyBNuuV1xqc6wtecFAnUx96UE0hTDB%2B9ieGzAcKpOR72a0lE%2FnyGnVpW%2B0pQgsLxVP2mAF1ppniv%2B3AGkQYfDRxQtzpar%2B1soMTRt6GrPMkij4s2PZyLI88btPk6Ug4tNQhIyFEtFcQNSGIzDQZYFlOFy8AF0w1lYJNIfBm4JT1gZNb33Tq5TZ3lNxRh22Bhs9DElGKyJMUYpS7TgegM573lWEgTR7P4pkBIQHON0R%2F7w1dtaPSSvYKoZg%3D%3D
 
 #EXTINF:-1 tvg-name="廣東新聞" tvg-id="" tvg-country="中國大陸" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114131740840005_79.png" group-title="广东",[AA]广东新闻
 
@@ -173,6 +184,4 @@ https://cdn.qd.je/163189.php?id=cctv16-2
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 http://f.123.rr.kg/163189/cctv16
 http://f.123.rr.kg/163189/cctv16-2
-
-
 
