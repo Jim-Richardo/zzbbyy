@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="378819" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001359645907_15.png" group-title="央视",[AA]CCTV1 综合
-https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=7434061450&sign=6ab2e77ac05869817c1d63e1239ec047414d65ede5663906e461fb2fe63f69f2ac025d672181c159337e52207df1ccc278de0a8fc768780c6c70d24df171d4fd0d327e4b4191155c440441a754&auth_token=d1faa062f422eb4bd2233aac3cd8df46#headers#{"User-Agent":"okHttp/Mod-1.5.0.0"};
+https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=7434061450&sign=6ab2e77ac05869817c1d63e1239ec047414d65ede5663906e461fb2fe63f69f2ac025d672181c159337e52207df1ccc278de0a8fc768780c6c70d24df171d4fd0d327e4b4191155c440441a754&auth_token=d1faa062f422eb4bd2233aac3cd8df46#headers=User-Agent:okHttp/Mod-1.5.0.0
