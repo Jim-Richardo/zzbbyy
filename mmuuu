@@ -1,7 +1,15 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台
-
-
+http://tv123.cc.cd/live.php?ch=147&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=a328f2ff80f3772994c4f95a20d71c5b671fc820b9aa2ab06206be9827a8266c
+http://tv123.cc.cd/live.php?ch=148&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=5976108866be04bdf613945e26b045a092f4acbb9bd0e68d367772094f2a7ebf
+http://tv123.cc.cd/live.php?ch=1607&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=c6db1ed938ed680bb2b0029a1dc58a7d187d6470991547b1fffc1ff28bd2cd8e
+http://tv123.cc.cd/live.php?ch=1747&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=109a352d5cfa9439910dbdb9df18064e5c11b153a707001f03ba2bbadab54105
+http://tv123.cc.cd/live.php?ch=1964&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=fd2370216abb52a9dcfa5c77428a5bd2dc57d9da675433ca0bd8ca48347ce334
+http://tv123.cc.cd/live.php?ch=1996&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=4903a25cfc6f7eca333c5918baae76e99047a32ddb2e2bd68d534e45b20b4929
+http://tv123.cc.cd/live.php?ch=2243&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=2896796359d57794074bee04273ab60f97f6e201341a3787ad96bfeac3b2bfee
+http://tv123.cc.cd/live.php?ch=2268&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=dfddb874093df014412273ff64967c80aa1bb1336d59aa0b804654bc51d6ebd9
+http://tv123.cc.cd/live.php?ch=2269&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=72742bc02a18f83271a3477a9e97fca26d43976c8b5c0f5c91d2f17225a64064
+http://tv123.cc.cd/live.php?ch=2308&sid=958af8fd8232133d729f3a1f2651780e&exp=1785519759&sig=98e7f3d3da2e2ae1b8c40d8d6338a04e0a0fb5c8ca05a9d97645f8e142922f92
 https://t.freetv.fun/live/fei-cui.php
 
 https://t.freetv.fun/live/fei-cui-4.m3u8
