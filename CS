@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="378819" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001359645907_15.png" group-title="央视",[AA]CCTV1 综合
 video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-0-0-0.html
-http://A/ku9/js/web.js?id=http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-0-0-0.html
 video://https://m.456iptv.com/?act=play&token=11806f29e8e8f69632f1fcf1c4adc191&tid=gt&id=5
-http://A/ku9/js/web.js?id=https://m.456iptv.com/?act=play&token=11806f29e8e8f69632f1fcf1c4adc191&tid=gt&id=5
 video://https://wcetv.com/videos/view/liv/3
-http://A/ku9/js/web.js?id=https://wcetv.com/videos/view/liv/3
-video://https://live.yes2049.com/channels/tvb-jade/
-http://A/ku9/js/web.js?id=https://live.yes2049.com/channels/tvb-jade/
+video://https://m.234iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
+video://https://m.567iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
+video://https://m.678iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
+video://https://m.789iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
 video://
-http://A/ku9/js/web.js?id=
 video://
-http://A/ku9/js/web.js?id=
+video://
+video://
+video://
