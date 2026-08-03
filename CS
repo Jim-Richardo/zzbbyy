@@ -6,8 +6,8 @@ video://https://m.456iptv.com/?act=play&token=11806f29e8e8f69632f1fcf1c4adc191&t
 http://A/ku9/js/web.js?id=https://m.456iptv.com/?act=play&token=11806f29e8e8f69632f1fcf1c4adc191&tid=gt&id=5
 video://https://wcetv.com/videos/view/liv/3
 http://A/ku9/js/web.js?id=https://wcetv.com/videos/view/liv/3
-video://
-http://A/ku9/js/web.js?id=
+video://https://live.yes2049.com/channels/tvb-jade/
+http://A/ku9/js/web.js?id=https://live.yes2049.com/channels/tvb-jade/
 video://
 http://A/ku9/js/web.js?id=
 video://
