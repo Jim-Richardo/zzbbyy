@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",[AA]翡翠台
 video://http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/play-0-0-0.html
 video://https://m.456iptv.com/?act=play&token=11806f29e8e8f69632f1fcf1c4adc191&tid=gt&id=5
-video://https://wcetv.com/videos/view/liv/3
 video://https://m.234iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
 video://https://m.567iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
 video://https://m.678iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
