@@ -11,3 +11,9 @@ video://
 video://
 video://
 video://
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港",[AA]无线新闻台
+video://https://www.456iptv.com/?act=play&token=602f49c1a9dd03e7d13d1af598fc2b88&tid=gt&id=6
+video://https://www.234iptv.com/?act=play&token=602f49c1a9dd03e7d13d1af598fc2b88&tid=gt&id=6
+video://https://www.345iptv.com/?act=play&token=602f49c1a9dd03e7d13d1af598fc2b88&tid=gt&id=6
+video://https://www.567iptv.com/?act=play&token=602f49c1a9dd03e7d13d1af598fc2b88&tid=gt&id=6
+video://https://www.789iptv.com/?act=play&token=602f49c1a9dd03e7d13d1af598fc2b88&tid=gt&id=6
