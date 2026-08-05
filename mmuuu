@@ -75,6 +75,8 @@ http://r.jdshipin.com/CkuBd
 https://php.946985.filegear-sg.me/tvbnews.php?id=c
 https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
 http://120.234.11.131:18180/TV00000000000000000034@HHZT
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",[AA]TVB Plus
@@ -124,18 +126,20 @@ https://fast.hidns.vip/163189/hoy
 http://cdn6.123.rr.kg/163189/hoy
 
 #EXTINF:-1 tvg-name="TVB星河(粵)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="香港",[AA]TVB星河
-https://cdn.qd.je/163189.php?id=xinghe
 https://cdn.qd.je/163189/tvbxh
 https://cdn.qd.je/163189/tvbxh2
-https://cdn10.123.rr.kg/163189/xinghe/
 https://cdn6.123.rr.kg/163189/tvbxh
 http://r.jdshipin.com/Voac4
 http://rihou.cc:555/tv/[Pd]无线星河
 http://c.123.rr.kg/163189/tvbxh
+https://cdn.qd.je/163189.php?id=xinghe
+https://cdn10.123.rr.kg/163189/xinghe/
 
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="香港",[AA]翡翠剧集台
 https://cdn.qd.je/163189.php?id=tvbd
-
+http://rihou.cc:555/tv/[Pd]无线翡剧
+https://cdn6.123.rr.kg/163189/tvbd
+http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153400
 
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",[AA]华丽翡翠台
 
@@ -145,10 +149,15 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 https://cdn.qd.je/163189.php?id=yzwx
 https://cdn.qd.je/163189/yzwx
 http://rihou.cc:555/tv/[Pd]无线功夫
+https://cdn6.123.rr.kg/163189/yzwx
+
 
 
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="香港",[AA]千禧经典台
 https://cdn.qd.je/163189/tvbc
+https://cdn.qd.je/163189/tvbc
+http://rihou.cc:555/tv/[Pd]无线经典
+https://cdn3.123.rr.kg/163189/tvbc
 
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="香港",[AA]美亚电影台
 
@@ -170,6 +179,7 @@ http://rihou.cc:555/tv/[AtI]广东珠江
 
 #EXTINF:-1 tvg-name="大灣區衛視" vg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114132000365190_44.png" group-title="广东",[AA]大湾区卫视
 https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+
 
 #EXTINF:-1 tvg-name="廣東體育" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png" group-title="广东",[AA]广东体育
 https://cdn.qd.je/163189.php?id=gdty
@@ -195,6 +205,7 @@ https://cdn.qd.je/163189/cctv1
 http://c.123.rr.kg/163189/cctv1
 https://cdn16.123.rr.kg/163189/cctv1
 http://rihou.cc:555/tv/[mg]CCTV-01
+
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="央视",[AA]CCTV3 综艺
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 http://f.123.rr.kg/163189/cctv3
