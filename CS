@@ -22,6 +22,7 @@ video://https://www.789iptv.com/?act=play&token=602f49c1a9dd03e7d13d1af598fc2b88
 
 
 #EXTINF:-1 tvg-name="廣東民生" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDRf/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="广东台", 广东民生
+https://tcdn.itouchtv.cn/live/gdgg.m3u8?t_token=213e3839cf2851475f5a6d337b513c33-N45HfxMSNg3FeodANcYIMKli1AAcnubwPz1KlIycYiHGO0n2jtwB7mWl3MjNmBZ6M8pK18FZ3%2BPwZx%2FL3I4jRvfQUBLleU7YeCahFnUShpzipGFWKxsF1CjnpuEDgsCSLo%2FCh9pqn4inKfO2zopRx88km3PyLy6J8PG8NgZQzUtaUziQXNc8OOrlfKrM5MOi9z4o7zbGsgws%2BptWSZCj42ZIgU6l3Nmq5E%2Ftvr2VYgOcPIJ9NFtGhzfDYuJaMftTuuzIjzpCJpl856XmpKK%2BbDyypcuoOwnxGwil9Z0EyZzpyK%2FxXxRGbsXFIe9cM3ilRBkLa1IgAY5x%2BtC7M80RgVkgpf9rEVEw7NYCG1Bt1MMnPscNu%2BX9aT5UXb76F7in
 https://www.gdtv.cn/tvChannelDetail/48
 
 
