@@ -6,7 +6,7 @@ video://https://m.234iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&t
 video://https://m.567iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
 video://https://m.678iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
 video://https://m.789iptv.com/?act=play&token=506faeede1f823f3063eaa11038ba34e&tid=gt&id=5
-video://
+video://https://m.678iptv.com/?act=play&token=4184b98ce9ba32fbf4d4ed5e6720d79b&tid=gt&id=5
 video://
 video://
 video://
