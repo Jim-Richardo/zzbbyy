@@ -193,6 +193,7 @@ http://198.204.228.26/live/gdzja.m3u8
 http://192.151.150.154/live/gdzja.m3u8
 http://107.150.60.122/live/gdzja.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+http://45.192.97.170:8880/play/1317.m3u8
 
 #EXTINF:-1 tvg-name="廣東民生" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDRf/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="广东",[AA]广东民生
 http://192.151.150.154/live/gdgg.m3u8
