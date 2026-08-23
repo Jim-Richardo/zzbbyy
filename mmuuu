@@ -3,8 +3,8 @@
 
 https://10.fast.hidns.vip/163189/fct/
 http://iptv.852851.xyz/l/OoYeCwcctwi6AgaDXZLQGlP2lJHtZoozY5u8r1zdSLSsmx49xwU7dHeq46DQW8SO/index.m3u8
-
-
+http://45.192.97.170:8880/play/1452.m3u8
+http://45.192.97.170:8880/play/1453.m3u8
 
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港",无线新闻台
 
@@ -83,7 +83,7 @@ http://45.192.97.170:8880/play/1334.m3u8
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
-
+http://45.192.97.170:8880/play/1455.m3u8
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",[AA]TVB Plus
 https://cdn.qd.je/163189/tvbpvtt
