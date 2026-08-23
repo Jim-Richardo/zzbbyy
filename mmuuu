@@ -56,10 +56,7 @@ http://cdn3.123.rr.kg/stream/tvb/fct/
 http://cdn10.123.rr.kg/163189/fct/
 http://r.jdshipin.com/qrfbg
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
-http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
-https://ktpremium.world/live/LT1976F/A9177/492383.ts
-http://45.192.97.170:8880/play/1313.m3u8
-http://45.192.97.170:8880/play/1314.m3u8
+
 
 
 
@@ -82,7 +79,7 @@ https://php.946985.filegear-sg.me/tvbnews.php?id=inews
 https://ktpremium.world/live/LT1976F/A9177/492389.ts
 http://45.192.97.170:8880/play/1316.m3u8
 http://45.192.97.170:8880/play/1334.m3u8
-https://95.ru8.dpdns.org/live/stream-a841a5dc-528c-41d3-958d-86db59cedd03/index.m3u8?u=asdf&p=f0e4c2f76c58916ec258f246851bea091d14d4247a2fc3e18694461b1816e13b
+
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
@@ -94,7 +91,7 @@ https://cdn.qd.je/163189/tvbp
 https://cdn.qd.je/163189/tvbp2
 https://cdn3.indevs.in/stream/tvb/tvbp/
 https://cdn3.123.rr.kg/stream/tvb/tvbp/
-http://rihou.cc:555/tv/[Pd]Plus综合
+
 http://r.jdshipin.com/Nr5jq
 http://r.jdshipin.com/ndGgS
 https://10.fast.hidns.vip/163189/tvbp/
@@ -115,9 +112,7 @@ https://10.fast.hidns.vip/163189/viu6/
 https://cdn.qd.je/163189.php?id=now
 https://cdn.qd.je/163189/now
 https://cdn.123.rr.kg/163189/now
-http://rihou.cc:555/tv/[Cx]Now新闻
-http://rihou.cc:555/tv/[Hk]Now新闻
-http://rihou.cc:555/tv/[Mt]Now新闻
+
 https://fast.hidns.vip/163189/now
 
 #EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="香港",[AA]Hoy TV
@@ -139,14 +134,14 @@ https://cdn.qd.je/163189/tvbxh
 https://cdn.qd.je/163189/tvbxh2
 https://cdn6.123.rr.kg/163189/tvbxh
 http://r.jdshipin.com/Voac4
-http://rihou.cc:555/tv/[Pd]无线星河
+
 http://c.123.rr.kg/163189/tvbxh
 https://cdn.qd.je/163189.php?id=xinghe
 https://cdn10.123.rr.kg/163189/xinghe/
 
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="香港",[AA]翡翠剧集台
 https://cdn.qd.je/163189.php?id=tvbd
-http://rihou.cc:555/tv/[Pd]无线翡剧
+
 https://cdn6.123.rr.kg/163189/tvbd
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153400
 
@@ -157,7 +152,7 @@ http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&strea
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 https://cdn.qd.je/163189.php?id=yzwx
 https://cdn.qd.je/163189/yzwx
-http://rihou.cc:555/tv/[Pd]无线功夫
+
 https://cdn6.123.rr.kg/163189/yzwx
 
 
@@ -165,7 +160,7 @@ https://cdn6.123.rr.kg/163189/yzwx
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="香港",[AA]千禧经典台
 https://cdn.qd.je/163189/tvbc
 https://cdn.qd.je/163189/tvbc
-http://rihou.cc:555/tv/[Pd]无线经典
+
 https://cdn3.123.rr.kg/163189/tvbc
 
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png" group-title="香港",[AA]美亚电影台
@@ -180,8 +175,7 @@ https://cdn.qd.je/163189/gdzj
 https://cdn.123.rr.kg/163189/gdzj
 https://2.fast.hidns.vip/163189/gdzj
 http://cdn2.123.rr.kg/163189/gdzj
-http://rihou.cc:555/tv/[Cx]广东珠江
-http://rihou.cc:555/tv/[AtI]广东珠江
+
 http://107.150.60.122/live/gdzj.m3u8
 http://198.204.228.26/live/gdzj.m3u8
 http://192.151.150.154/live/gdzj.m3u8
