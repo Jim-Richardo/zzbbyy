@@ -86,7 +86,8 @@ http://45.192.97.170:8880/play/1205.m3u8
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:53:05:29&stream=1495601
 http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:06:9A:77&stream=153399
-http://45.192.97.170:8880/play/1455.m3u8
+
+http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500949.ts
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",[AA]TVB Plus
 https://cdn.qd.je/163189/tvbpvtt
