@@ -2,7 +2,9 @@
 #EXTINF:-1 tvg-name="翡翠台" tvg-id="368366" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台
 
 https://10.fast.hidns.vip/163189/fct/
-
+http://45.192.97.170:8880/play/381.m3u8
+http://45.192.97.170:8880/play/382.m3u8
+http://45.192.97.170:8880/play/421.m3u8
 
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="香港" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港",无线新闻台
 
@@ -61,6 +63,10 @@ http://rihou.cc:555/tv/[Pd]无线翡4K
 http://play.wenxiang.cn/live/e240363d284b6f41fcb7136eef507ef6.flv
 http://74.91.26.218:82/live/jade.m3u8
 
+http://45.192.97.170:8880/play/381.m3u8
+http://45.192.97.170:8880/play/382.m3u8
+http://45.192.97.170:8880/play/421.m3u8
+
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="香港",[AA]无线新闻台
 http://c.123.rr.kg/163189/wxxw
 http://c.123.rr.kg/163189/wxxwt
@@ -80,6 +86,8 @@ https://ktpremium.world/live/LT1976F/A9177/492389.ts
 
 http://rihou.cc:555/tv/[Pd]无线新闻
 https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
+http://45.192.97.170:8880/play/384.m3u8
+http://45.192.97.170:8880/play/402.m3u8
 
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",[AA]TVB Plus
