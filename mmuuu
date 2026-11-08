@@ -242,12 +242,17 @@ http://c.123.rr.kg/163189/cctv1
 https://cdn16.123.rr.kg/163189/cctv1
 http://rihou.cc:555/tv/[mg]CCTV-01
 http://107.150.60.122/live/cctv1hd.m3u8
+http://192.151.150.154/live/cctv1hd.m3u8
+http://107.150.60.122/live/cctv1hd.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001936710108_56.png" group-title="央视",[AA]CCTV3 综艺
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 http://f.123.rr.kg/163189/cctv3
 https://cdn16.123.rr.kg/163189/cctv3
 http://173.208.212.130:8181/720p/cctv3.m3u8
+http://107.150.60.122/live/cctv3hd.m3u8
+http://192.151.150.154/live/cctv3hd.m3u8
 http://107.150.60.122/live/cctv3hd.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001827124534_66.png" group-title="央视",[AA]CCTV5 体育
@@ -261,6 +266,7 @@ https://cdn16.123.rr.kg/163189/cctv5
 http://120.76.248.139/live/bfgd/4200000064.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
 http://107.150.60.122/live/cctv5hd.m3u8
+
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001757126121_81.png" group-title="央视",[AA]CCTV5+ 体育赛事
 https://cdn.qd.je/163189.php?id=cctv5p
@@ -283,12 +289,14 @@ http://192.151.150.154/live/cctv13hd.m3u8
 http://198.204.228.26/live/cctv13hd.m3u8
 http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 http://107.150.60.122/live/cctv13hd.m3u8
+http://192.151.150.154/live/cctv13hd.m3u8
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.pw/media/images/channel/2025/01/25/large/20250125001529466715_75.png" group-title="央视",[AA]CCTV15 音乐
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 http://f.123.rr.kg/163189/cctv15
 https://cdn16.123.rr.kg/163189/cctv15
 http://107.150.60.122/live/cctv15hd.m3u8
+http://192.151.150.154/live/cctv15hd.m3u8
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://od.lk/d/ODZfNzEzNDc4NDdf/CCTV16.png" group-title="央视",[AA]CCTV16 奥运
 https://cdn.qd.je/163189.php?id=cctv16
